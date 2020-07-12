@@ -100,11 +100,11 @@ thread,
 process,
 goto,
 ring0,
-ring-3
-ring-2
-ring-1
-ring1
-ring2
+ring-3,
+ring-2,
+ring-1,
+ring1,
+ring2,
 object,
 disassembly,
 botnet,
