@@ -99,7 +99,7 @@ sigtrap,
 thread,
 process,
 goto,
-ring0
+ring0,
 ring-3
 ring-2
 ring-1
